@@ -29,8 +29,12 @@ Copy and paste all of these files into your Svelte project, import the `<Portabl
       strong: CustomStrong,
     },
     blockStyles: {
-      // Custom heading 1
+      normal: CustomParagraph,
+      blockquote: Quote,
+      // Re-using the same component across multiple styles
       h1: CustomHeading,
+      h2: CustomHeading,
+      h3: CustomHeading,
       // Custom user-defined style
       textCenter: CentralizedText
     },
