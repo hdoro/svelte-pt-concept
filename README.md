@@ -1,3 +1,7 @@
+🚨 **Notice:** This code isn't required anymore as we now have the [official `@portabletext/svelte` package](https://github.com/portabletext/svelte-portabletext/)
+
+---------
+
 # PortableText renderer for Svelte
 
 I wrote an [article on how I got to this code](https://hdoro.dev/rendering-portable-text-from-scratch) - you should check that out if you want to help build/test/document a better Svelte + PortableText integration :)
